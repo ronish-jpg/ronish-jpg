@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👨‍💻 Ronish Katuwal<br><br>🌟 **Currently in a Love-Hate Relationship with Python 🐍**  <br><br>I’m a Computer Engineering student who loves Formula 1 racing,<br>exploring new technologies and learning by building.  <br>Currently focused on:<br>- Learning **Python** and mastering programming fundamentals  <br>- Exploring the world of **AI/ML**  <br>- Sharing my progress and experiments here on GitHub  <br><br>⚡ **Fun fact:** My commits are faster than a pit stop 🏎️💨  <br><br>
+# 👨‍💻 Ronish Katuwal<br><br>🌟 **Currently in a Love-Hate Relationship with Python 🐍**  <br><br>I’m a Computer Engineering student who loves Formula 1 racing,exploring<br> new technologies and learning by building.  <br>Currently focused on:<br>- Learning **Python** and mastering programming fundamentals  <br>- Exploring the world of **AI/ML**  <br>- Sharing my progress and experiments here on GitHub  <br><br>⚡ **Fun fact:** My commits are faster than a pit stop 🏎️💨  <br><br>
 
 
 ## 🌐 Socials:
