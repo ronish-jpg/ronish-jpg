@@ -1,6 +1,6 @@
 # 💫 About Me:
 # 👨‍💻 Ronish Katuwal<br><br>🌟 **Currently in a Love-Hate Relationship with Python 🐍**  <br><br>I’m a Computer Engineering student who loves Formula 1 racing,exploring new technologies and learning by building.  <br>Currently focused on:<br>- Learning **Python** and mastering programming fundamentals  <br>- Exploring the world of **AI/ML**  <br>- Sharing my progress and experiments here on GitHub  <br><br>⚡ **Fun fact:** My commits are faster than a pit stop 🏎️💨  <br><br>
-[!https://assets.holopin.io/hf2025levels/lvl0-human.webp]<br><br>
+![Holopin Badge](https://holopin.io/api/user/board/?user=ronish-jpg&badge=cmgdhu3jz006tlb04hqeauuz8)<br><br>
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamnot_ronish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronish-katuwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katuwalronish0@gmail.com) 
