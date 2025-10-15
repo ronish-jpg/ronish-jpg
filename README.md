@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👨‍💻 Ronish Katuwal<br>I’m a Computer Engineering student who loves Formula 1 racing,exploring new technologies and learning by building.  <br>Currently focused on:<br>- Learning **Python** and mastering programming fundamentals  <br>- Exploring the world of **AI/ML**  <br>- Sharing my progress and experiments here on GitHub  <br><br>⚡ **Fun fact:** My commits are faster than a pit stop 🏎️💨<br><br>
+# 👨‍💻 Ronish Katuwal<br>I’m a Computer Engineering student who loves Formula 1 racing,exploring new technologies and learning by building.  <br>Currently focused on:<br>- Learning **Python** and mastering programming fundamentals  <br>- Exploring the world of **AI/ML**  <br>- Sharing my progress and experiments here on GitHub  <br><br>⚡ **Fun fact:** My commits are faster than a pit stop 🏎️💨
 
 [![An image of @ronish-jpg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ronishjpg)](https://holopin.io/@ronishjpg)
 
