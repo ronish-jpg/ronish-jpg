@@ -46,7 +46,7 @@ Currently focused on:
 ## 🏎️ My Contributions on Track
 
 <div align="center">
-  <img alt="F1 Red Bull Racing Snake" src="https://raw.githubusercontent.com/ronish-jpg/ronish-jpg/output/github-contribution-grid-f1.svg" />
+  <img src="https://raw.githubusercontent.com/ronish-jpg/ronish-jpg/output/github-contribution-grid-f1-final.svg" alt="Red Bull F1 Racing Contribution Animation" />
   <br/>
   <em>“Every commit is a lap — every repo is a race.”</em>
 </div>
