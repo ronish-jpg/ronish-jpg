@@ -1,0 +1,41 @@
+name: Generate F1 Racing Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate F1 Car SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ronish-jpg
+          outputs: |
+            dist/github-contribution-grid-f1.svg
+          color_snake: "#DA291C" # Red Bull red
+          color_dots: "#1E41FF,#DA291C,#FFD700,#FFFFFF,#1E41FF"
+
+      - name: Add F1 Red Bull Car Overlay
+        run: |
+          mkdir -p dist
+          cp redbull-f1-car.png.png dist/redbull-f1-car.png
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+            <image href="redbull-f1-car.png" x="10" y="150" height="50" width="120">
+              <animate attributeName="x" from="10" to="800" dur="10s" repeatCount="indefinite" />
+            </image>
+          </svg>' > dist/f1-car-overlay.svg
+          cat dist/github-contribution-grid-f1.svg dist/f1-car-overlay.svg > dist/github-contribution-grid-f1-final.svg
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
