@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+  <image href="redbull-f1-car.png" x="10" y="150" height="50" width="120">
+    <animate attributeName="x" from="10" to="800" dur="10s" repeatCount="indefinite" />
+  </image>
+</svg>
